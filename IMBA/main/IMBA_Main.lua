@@ -6,17 +6,20 @@ IMBA_Addons = {};
 IMBA_SavedVariables = {};
 IMBA_SavedVariables.Mods = {};
 -- Raid zones
-IMBA_LOCATIONS_MC = "Molten Core";
-IMBA_LOCATIONS_BWL = "Blackwing Lair";
-IMBA_LOCATIONS_ZG = "Zul'Gurub";
-IMBA_LOCATIONS_AQ20 = "Ruins of Ahn'Qiraj";
-IMBA_LOCATIONS_AQ40 = "Temple of Ahn'Qiraj";
-IMBA_LOCATIONS_NAXX = "Naxxramas";
+IMBA_LOCATIONS_MC = "4_MC";
+IMBA_LOCATIONS_BWL = "3_BWL";
+IMBA_LOCATIONS_ZG = "7_ZG";
+IMBA_LOCATIONS_AQ20 = "6_AQ20";
+IMBA_LOCATIONS_AQ40 = "2_AQ40";
+IMBA_LOCATIONS_NAXX = "1_NAXX";
 IMBA_LOCATIONS_NAXX_ABOM = "Naxxramas - Abomination Wing";
 IMBA_LOCATIONS_NAXX_DK = "Naxxramas - Deathknight Wing";
 IMBA_LOCATIONS_NAXX_PLAGUE = "Naxxramas - Plague Wing";
 IMBA_LOCATIONS_NAXX_SPIDER = "Naxxramas - Spider Wing";
 IMBA_LOCATIONS_NAXX_LAIR = "Naxxramas - Frostwyrm Lair";
+IMBA_LOCATIONS_ONY = "5_ONY";
+IMBA_LOCATIONS_WORLD = "8_WORLD";
+IMBA_LOCATIONS_PVP = "9_PVP";
 
 IMBA_LOCATIONS_OTHER = "Other";
 
