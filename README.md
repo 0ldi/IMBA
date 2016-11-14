@@ -11,7 +11,7 @@ NAXX Boss mod + several unique functions for coordination raid, develop tactics 
 * Changed names for convenience		
 * Changed logo		
 * There are 4 variants of maps (each individual map there almost perfectly interchangeable with analogs).			
-You can download them [here](https://github.com/0ldi/AddonMaps).			
+[Downloading](https://github.com/0ldi/AddonMaps).			
 -minimap_256			
 -minimap_128 (lightweight version)			
 -air_256 `BY DEFAULT`			
