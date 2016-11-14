@@ -10,12 +10,15 @@ NAXX Boss mod + several unique functions for coordination raid, develop tactics 
 # Changelog   		
 * Changed names for convenience		
 * Changed logo		
-* There are 4 variants of maps (each individual map there almost perfectly interchangeable with analogs).			
-[Downloading](https://github.com/0ldi/AddonMaps).			
+* There are 4 variants of maps (each individual map there almost perfectly interchangeable with analogs)			
+[Download](https://github.com/0ldi/AddonMaps)			
 -minimap_256			
 -minimap_128 (lightweight version)			
+![](http://imagehost.spark-media.ru/i4/F67A6004-F7FD-F601-99F4-9CEA82CFE8BE.png)			
+
 -air_256 `BY DEFAULT`			
--air_128 (lightweight version)			
+-air_128 (lightweight version)		
+![](http://imagehost.spark-media.ru/i4/47EAF6C7-0508-118C-039B-488C0DDEC95A.png)			
 * Added AQ40, BWL, MC, ONY, AQ20, ZG, WorldBosses, BGs, Arenas, Capitals	
 
 Based on `IMBA 1.4`
