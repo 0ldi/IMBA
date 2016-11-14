@@ -15,7 +15,6 @@ NAXX Boss mod + several unique functions for coordination raid, develop tactics 
 -minimap_256			
 -minimap_128 (lightweight version)			
 ![](http://imagehost.spark-media.ru/i4/F67A6004-F7FD-F601-99F4-9CEA82CFE8BE.png)			
-
 -air_256 `BY DEFAULT`			
 -air_128 (lightweight version)		
 ![](http://imagehost.spark-media.ru/i4/47EAF6C7-0508-118C-039B-488C0DDEC95A.png)			
