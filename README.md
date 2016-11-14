@@ -10,15 +10,16 @@ NAXX Boss mod + several unique functions for coordination raid, develop tactics 
 # Changelog   		
 * Changed names for convenience		
 * Changed logo		
-* Added High Quality Maps (by default) `13,1mb`			
-* Added Low Quality Maps (if you RAM-pauper in 2k16) `3,7mb`				
-* Added AQ40, BWL, MC, ONY, AQ20, ZG, WorldBosses	
+* There are 4 variants of maps (each individual map there almost perfectly interchangeable with analogs). You can download them [here](https://github.com/0ldi/AddonMaps).
+-minimap_256 and lightweight version minimap_128
+-air_256 and lightweight version air_128
+* Added AQ40, BWL, MC, ONY, AQ20, ZG, WorldBosses, BGs, Arenas, Capitals	
 
 Based on `IMBA 1.4`
 
 # Instalation
 Put `IMBA` folder to `World of Warcraft\Interface\AddOns` 	
-For lightweight maps version replace .tga files from `LowQualityMaps` to `World of Warcraft\Interface\AddOns\IMBA\textures\MapImages` folder
+For other maps version replace .BLP files from desired folder to `World of Warcraft\Interface\AddOns\IMBA\textures\MapImages` folder
 
 # Detailed description
 This is an addon trying to achieve the third generation of information supplied by boss mods. All options can be set via the options window which can be accessed via `/imba`. Windows if hidden will pop up on the start of a boss fight so you can position and close them. 
