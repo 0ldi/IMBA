@@ -9,7 +9,7 @@ NAXX Boss mod + several unique functions for coordination raid, develop tactics 
 
 # Changelog   		
 * Changed names for convenience		
-* Changed logo		
+* Changed blank		
 * There are 4 variants of maps (each individual map there almost perfectly interchangeable with analogs)			
 [Download](https://github.com/0ldi/AddonMaps)			
 -minimap_256			
